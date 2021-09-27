@@ -35,3 +35,7 @@ h1, h3, p {
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
 }
+
+textarea::placeholder {
+    color: #000000;
+}
