@@ -38,3 +38,7 @@ h1, h3, p {
 textarea::placeholder {
     color: #282726;
 }
+
+.links { 
+    text-align: center;
+}
